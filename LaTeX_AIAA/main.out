@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Task 1: 3DoF Simulation with perturbations}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Perturbation: J2 Oblate Spheroid Acceleration}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Perturbation: Simplified Atmospheric Drag Model}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Task 2: 6DoF Simulation with perturbations}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Perturbation: Gravity Gradient Torques}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Perturbation: Atmospheric Torques}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Task 3: Relative Motion Description Study}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Considering Perturbed Motion in the Chief Frame}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Simplifications for Derivation of the Clohessy-Wiltshire Equations}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Task 4: Comparison of Keplerian Relative Motion and Non-Keplerian Descriptions}{}% 11
+\BOOKMARK [2][-]{subsection.5.1}{Varying Eccentricity - Keplerian Case for CW and Nonlinear \(NL\) Relative Equations}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.2}{Circular Chief with Perturbations}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.3}{Circular Chief with Perturbations - higher atmospheric drag effect}{section.5}% 14
+\BOOKMARK [1][-]{section.6}{Task 5: Passive Inspection Criteria for Formations}{}% 15
+\BOOKMARK [1][-]{section.7}{Conclusions and Future Work}{}% 16

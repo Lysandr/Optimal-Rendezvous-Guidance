@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Task 1: Zanetti Guidance Implementation}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{V-bar Approach Example}{section.2}% 3
+\BOOKMARK [1][-]{section.3}{Task 2: Zanetti PD Comparison with Lyapunov Controller}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{R-bar Approach Example}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Lyapunov Based Cartesian Controller}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.3}{A Comparison of The Optimal and Lyapunov Laws}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Task 3: Testing Under Differing Conditions and Accuracy Comparison}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Nonlinear Simulation Accuracy}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Final Time and Accuracy Analysis}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.3}{Robustness Under Differing Conditions}{section.4}% 11
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Uncertain Initial State}{subsection.4.3}% 12
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Control Uncertainties}{subsection.4.3}% 13
+\BOOKMARK [1][-]{section.5}{Conclusion and Future Work}{}% 14

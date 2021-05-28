@@ -1,0 +1,25 @@
+\begin{thebibliography}{3}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Schaub and Junkins(2018)}]{sj}
+Schaub, H., and Junkins, J.~L., \emph{Analytical mechanics of space systems},
+  4\textsuperscript{th} ed., American Institute of Aeronautics and
+  Astronautics, Inc, Reston, Virginia, 2018.
+
+\bibitem[{Khalil and Samwel(2016)}]{khalil2016effect}
+Khalil, I., and Samwel, S., \enquote{Effect of Air Drag Force on Low Earth
+  Orbit Satellites during Maximum and Minimum Solar Activity,} \emph{Space
+  Research Journal}, Vol.~9, No.~1, 2016, pp. 1--9.
+
+\bibitem[{Markley and Crassidis(2014)}]{markley2014fundamentals}
+Markley, F.~L., and Crassidis, J.~L., \emph{Fundamentals of spacecraft attitude
+  determination and control}, Vol.~33, Springer, 2014.
+
+\end{thebibliography}
